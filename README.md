@@ -5,6 +5,9 @@ This is a simple to use color picker that can be included into any android proje
 
 For more experienced users who wish to generate there own unique color, they may use the advance function that allows them to describe each value of a color.
 
+<img src="https://github.com/devpira/Android-Color-Picker/blob/master/ColorPalettePicker_SS.png?raw=true" alt="basiccolorpicker" width="300">
+<img src="https://github.com/devpira/Android-Color-Picker/blob/master/AdvanceColorPicker_SS.png?raw=true" alt="basiccolorpicker" width="300">
+
 <h3>How to install</h3>
 Add the following to your 'build.gradle' file in AndroidStudios:
 ```gradle

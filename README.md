@@ -1,9 +1,9 @@
 # Android Color Palette Picker
-<b>Developed By: Pirashanth Suri (DEVPIRA)</b>
+<b>Developed by: Pirashanth Suri (DEVPIRA)</b>
 
 This is a simple to use color picker that can be included into any android project with ease. It has a simple component that allows less experienced users to select from an array of colors based off of the Android's Material design color palette. 
 
-For more experienced users who wish to generate there own unique color, they may use the advance function that allows them to describe each value of a color.
+For more experienced users who wish to generate there own unique color, they can use the advance function that allows them to describe each value of a color.
 
 <img src="https://github.com/devpira/Android-Color-Picker/blob/master/ColorPalettePicker_SS.png?raw=true" alt="basiccolorpicker" width="300">
 <img src="https://github.com/devpira/Android-Color-Picker/blob/master/AdvanceColorPicker_SS.png?raw=true" alt="basiccolorpicker" width="300">

@@ -35,6 +35,7 @@ ColorPalettePicker.open(context, parentLayout, new ColorPalettePicker.OnColorPal
 - Child views of the color picker cannot be customized or changed.
 
 <h2>License</h2>
+
 ```
 Copyright 2016 DEVPIRA
          

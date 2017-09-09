@@ -10,13 +10,16 @@ For more experienced users who wish to generate there own unique color, they can
 
 <h3>How to install</h3>
 Add the following to your 'build.gradle' file in AndroidStudios:
-```gradle
+
+``` 
+gradle
 dependencies {
     compile 'com.devpira.colorlibrary:AndroidColorPicker:1.0.0'
-}
+} 
 ```
 <h3>How to use</h3>
 To open up the Color Picker, simply add the following lines to your code:
+
  ```java        
 ColorPalettePicker.open(context, parentLayout, new ColorPalettePicker.OnColorPalettePickerListener() {
        @Override
@@ -25,6 +28,7 @@ ColorPalettePicker.open(context, parentLayout, new ColorPalettePicker.OnColorPal
        }
  });
 ```
+
 <h2>Limitations</h2>
 <b>Verison 1.0.0:</b>
 - Does not support landscape view
